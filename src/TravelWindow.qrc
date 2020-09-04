@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/TravelWindow">
+        <file alias="map">Resources/map.png</file>
+        <file alias="airplan">Resources/airplan.jpg</file>
+        <file alias="bus">Resources/bus.png</file>
+        <file alias="train">Resources/train.png</file>
+        <file alias="wait">Resources/wait.png</file>
+    </qresource>
+</RCC>
